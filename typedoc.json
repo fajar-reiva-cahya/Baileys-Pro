@@ -1,9 +1,8 @@
 {
-    "entryPoints": ["./lib/index.d.ts"],
+    "entryPoints": ["./src/index.ts"],
     "excludePrivate": true,
     "excludeProtected": true,
     "excludeExternals": true,
     "includeVersion": false,
-    "out": "docs",
-    "gaID": "G-WBY63HR4VS"
+    "out": "docs"
 }
